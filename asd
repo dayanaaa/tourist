@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Matcho Temple",
-    "imageUrl": "https://github.com/dayanaaa/tourist/blob/master/images1/matcho.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/matcho.jpg",
     "priceCurrency": "₱",
     "price": 10,
     "lat": 16.6212,
@@ -110,7 +110,7 @@
   {
     "id": 26,
     "name": "Sta. Maria Ilocos Sur (HOUSE)",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images/",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/balay.JPG",
     "priceCurrency": "₱",
     "price": 140 ,
     "lat": 17.3782,
