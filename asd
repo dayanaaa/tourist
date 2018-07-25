@@ -11,7 +11,7 @@
    {
     "id": 2,
     "name": "Basco Batanes",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/balesin.jpg",
     "priceCurrency": "km",
     "price": 378,
     "lat": 20.4634,
