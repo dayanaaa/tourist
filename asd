@@ -29,7 +29,7 @@
    {
     "id": 4,
     "name": "Coron Palawan",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/coron.jpg",
     "priceCurrency": "km",
     "price": 378,
     "lat": 20.4634,
@@ -38,7 +38,7 @@
    {
     "id": 5,
     "name": "El Nido Palawan",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/elnido.jpg",
     "priceCurrency": "km",
     "price": 378,
     "lat": 20.4634,
@@ -47,7 +47,7 @@
    {
     "id": 6,
     "name": "Siargao Island",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/siargao.jpg",
     "priceCurrency": "km",
     "price": 378,
     "lat": 20.4634,
@@ -55,8 +55,8 @@
   },
    {
     "id": 7,
-    "name": "Basco Batanes",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
+    "name": "Corregidor Islands Bataan",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/corregidor.jpg",
     "priceCurrency": "km",
     "price": 378,
     "lat": 20.4634,
@@ -65,9 +65,9 @@
   {
     "id": 8,
     "name": "Heritage city of Vigan",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/vigan.jpg",
     "priceCurrency": "km",
-    "price": 378,
+    "price": 37.6,
     "lat": 20.4634,
     "lng": 122.0042
   },
@@ -76,13 +76,13 @@
     "name": "Nuestra Señora de la Asunción Church",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/church.jpg",
     "priceCurrency": "km",
-    "price": 378,
+    "price": 37.6,
     "lat": 20.4634,
     "lng": 122.0042
   },
   {
     "id": 10,
-    "name": "Basco Batanes",
+    "name": "Banaue Rice Terreces",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "km",
     "price": 378,
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "name": "Basco Batanes",
+    "name": "Mt. Pulag",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "km",
     "price": 378,
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "name": "Basco Batanes",
+    "name": "Mt. Pinatubo",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "km",
     "price": 378,
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "name": "Basco Batanes",
+    "name": "Mt. Pamitinan",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "km",
     "price": 378,
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "name": "Basco Batanes",
+    "name": "Mayon Volcano",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "km",
     "price": 378,
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "name": "Basco Batanes",
+    "name": "Puerto Princesa Subterranean River National Park",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "km",
     "price": 378,
