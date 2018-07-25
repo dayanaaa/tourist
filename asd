@@ -83,7 +83,7 @@
   {
     "id": 10,
     "name": "Banaue Rice Terreces",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/banue.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/blob/master/im/banue.jpeg",
     "priceCurrency": "km",
     "price": 189.6,
     "lat": 16.9240,
