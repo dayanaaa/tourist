@@ -92,7 +92,7 @@
    {
     "id": 24,
     "name": "Siargao Islands, Surigao Del Norte",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/siargao.jpg",
     "priceCurrency": "km",
     "price": 1,029,
     "lat": 9.9044033,
@@ -130,16 +130,16 @@
     "name": "Balesin Island, Mauban Quezon",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/balesin.jpg",
     "priceCurrency": "km",
-    "price": 60,
-    "lat": 16.4611,
-    "lng": 120.3339
+    "price": 522,
+    "lat": 14.4195474,
+    "lng": 122.0010594
   },
   {
     "id": 29,
     "name": "Sta. Maria Ilocos Sur (HOUSE)",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/balay.JPG",
     "priceCurrency": "km",
-    "price": 140 ,
+    "price": 0 ,
     "lat": 17.3782,
     "lng": 120.4890
   }
