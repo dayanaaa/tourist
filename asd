@@ -2,16 +2,16 @@
   {
     "id": 145,
     "name": "Basco Batanes",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/ruins.jpg",
-    "priceCurrency": "₱",
-    "price": 378 KM,
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
+    "priceCurrency": "km",
+    "price": 378,
     "lat": 16.5881,
     "lng": 120.3146
   },
   {
     "id": 148,
     "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/tangadan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price":30,
     "lat": 16.6436,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Matcho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/matcho.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price": 10,
     "lat": 16.6212,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Tuddingan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/tuddingan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price": 50,
     "lat": 16.5752,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Thunderbird Resort Poro Point",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/thunderbird.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price": 40,
     "lat": 16.6091,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Kultura Splash World",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/kultura.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price": 80,
     "lat": 16.3209,
@@ -56,7 +56,7 @@
   {
     "id": 201,
     "name": "Light House Poro Point",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/poro.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price": 40,
     "lat": 16.6149,
@@ -65,7 +65,7 @@
    {
     "id": 21,
     "name": "Tapuakan River Park",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/tapuacan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price": 100,
     "lat": 16.3210,
@@ -74,7 +74,7 @@
    {
     "id": 22,
     "name": "Baluarte Watch Tower",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/watch.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price": 60,
     "lat": 16.8568,
@@ -83,7 +83,7 @@
    {
     "id": 23,
     "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/bahay.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price": 50,
     "lat": 16.8449608,
@@ -92,7 +92,7 @@
    {
     "id": 24,
     "name": "Luna Beach",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/luna.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price": 50,
     "lat": 16.8449606,
@@ -101,7 +101,7 @@
    {
     "id": 25,
     "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/images1/grapes.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "₱",
     "price": 60,
     "lat": 16.4611,
