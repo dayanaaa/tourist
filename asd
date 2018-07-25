@@ -10,7 +10,7 @@
   },
    {
     "id": 2,
-    "name": "Basco Batanes",
+    "name": "Balesin Islad",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/balesin.jpg",
     "priceCurrency": "km",
     "price": 378,
@@ -19,8 +19,8 @@
   },
    {
     "id": 3,
-    "name": "Basco Batanes",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
+    "name": "Bantayan Island Cebu",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/bantayan.jpg",
     "priceCurrency": "km",
     "price": 378,
     "lat": 20.4634,
@@ -28,7 +28,7 @@
   },
    {
     "id": 4,
-    "name": "Basco Batanes",
+    "name": "Coron Palawan",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "km",
     "price": 378,
@@ -37,7 +37,7 @@
   },
    {
     "id": 5,
-    "name": "Basco Batanes",
+    "name": "El Nido Palawan",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "km",
     "price": 378,
@@ -46,7 +46,7 @@
   },
    {
     "id": 6,
-    "name": "Basco Batanes",
+    "name": "Siargao Island",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "km",
     "price": 378,
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "name": "Basco Batanes",
+    "name": "Heritage city of Vigan",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
     "priceCurrency": "km",
     "price": 378,
@@ -73,8 +73,8 @@
   },
   {
     "id": 9,
-    "name": "Basco Batanes",
-    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/batan.jpg",
+    "name": "Nuestra Señora de la Asunción Church",
+    "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/im/church.jpg",
     "priceCurrency": "km",
     "price": 378,
     "lat": 20.4634,
