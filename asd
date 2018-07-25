@@ -135,7 +135,7 @@
     "lng": 120.3339
   },
   {
-    "id": 2,
+    "id": 29,
     "name": "Sta. Maria Ilocos Sur (HOUSE)",
     "imageUrl": "https://raw.githubusercontent.com/dayanaaa/tourist/master/balay.JPG",
     "priceCurrency": "km",
